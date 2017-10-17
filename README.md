@@ -1,5 +1,5 @@
-# vueAdmin
-a simple admin template based on [vuejs2](http://vuejs.org/) and [element](http://element.eleme.io/#/).
+# inventory_system_front_end
+inventory_system_front_end based on [vuejs2](http://vuejs.org/) and [element](http://element.eleme.io/#/).
 
 ### Usage
 
@@ -27,4 +27,4 @@ Modern browsers and Internet Explorer 10+.
 ![image](https://raw.githubusercontent.com/taylorchen709/markdown-images/master/vueadmin/edit.jpg)
 
 ### License
-[MIT](http://opensource.org/licenses/MIT)
+
